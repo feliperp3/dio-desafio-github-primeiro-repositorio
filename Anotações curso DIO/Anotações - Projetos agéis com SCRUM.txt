@@ -1,0 +1,17 @@
+## Projetos Ágeis com SCRUM: 
+
+SCRUM é um método criado para se desenvolver um projeto com mais rapidez e controle que o projeto em si está seguindo o que tem que ser feito.
+
+Um time SCRUM é formado por:
+
+* Um Product Owner 
+
+* Um Scrum Master
+
+* Um Time de Desenvolvimento (de 3 a 9 devs)
+
+  Onde cada um tem seu papel a seguir na formação de um Projeto. 
+
+
+
+São feitas reuniões importantes que seguem uma dinâmica em cada uma delas, onde tem o que ser feito e limite de tempo para que o assunto não fuja do projeto.

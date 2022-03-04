@@ -1,0 +1,6 @@
+## Lógica de Programação: :computer: 
+
+Lógica de programação consiste em você solucionar problemas dando as instruções passo a passo, 
+detalhadamente para que a máquina entenda e faça tudo sem pular nenhum passo
+
+Link do site do jogo do Minecraft que ensina melhor na prática: https://studio.code.org/s/mc/lessons/1/levels/1
